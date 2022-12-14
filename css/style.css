@@ -38,6 +38,7 @@ body{
   font-size: 16px;
   line-height: 26px;
   color: #646464;
+  overflow-x: hidden;
 }
 body.overflow {
   overflow: hidden;
